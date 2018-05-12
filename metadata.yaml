@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43480'
     url: http://www.gutenberg.org/2009/agents/43480
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45824#Social-Comptabilism-Cheque-and-Clearing-Service--amp--Proposed-Law
 gutenberg_issued: '2014-05-30'
 gutenberg_type: Text
 identifiers:
